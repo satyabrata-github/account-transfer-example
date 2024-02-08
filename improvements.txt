@@ -1,0 +1,14 @@
+Enahancements :
+
+
+-> We can add spring security starter and implement JWT for securing api's like account creation, account deletion,
+   balance transfer operation as per user roles & responsibilities.
+
+-> We can integrate RDBMS database like adding client jar and spring JPA for Database management rather storing the records in a concurrenthashmap.
+
+-> We can apply spring transaction in order to support transaction & its rollback over the database transaction related work like balance transfer,
+   storing newly created account like operations.
+
+-> We can implement kafka support for sending notification to other application in asynchronous mode.
+
+    
